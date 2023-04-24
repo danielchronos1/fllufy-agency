@@ -146,11 +146,21 @@ button {
     color: #13253A;
     opacity: 0.9;
 }
+.experience-section {
+    height: 205px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: auto;
 
+}
 .experience-units {
     display: flex;
-    justify-content: space-between;
-    padding: 20px 330px;
+    
+}
+
+.units {
+   margin-right: 135px;
     
 }
 
@@ -207,6 +217,7 @@ button {
 
 .leftside-about {
     width: 370px;
+    flex: 1;
     order: 1;
     padding-right: 90px;
 }
@@ -229,6 +240,7 @@ button {
     line-height: 30px;
     color: #13253A;
     opacity: 0.9;
+    margin-top: 16px;
 }
 
 .about-lefttext {

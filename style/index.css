@@ -160,7 +160,8 @@ button {
 }
 
 .units {
-   margin-right: 135px;
+   padding-right: 135px;
+   padding-left: 90px;
     
 }
 

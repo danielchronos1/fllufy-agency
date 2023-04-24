@@ -220,7 +220,7 @@ button {
     width: 370px;
     flex: 1;
     order: 1;
-    padding-right: 90px;
+    padding-right: 30px;
 }
 
 .rightside-about {
@@ -230,7 +230,6 @@ button {
     line-height: 27px;
     color: #13253A;
     opacity: 0.9;
-    flex: 1;
     order: 2;
 }
 
